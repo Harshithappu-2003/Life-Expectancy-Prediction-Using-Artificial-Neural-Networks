@@ -48,39 +48,6 @@ Life expectancy is a key indicator of a country’s healthcare quality and overa
 
 * * *
 
-### ⚙️ Installation & Usage
-
-To run this project locally:
-
-1.  **Clone the repository:**
-    
-    bash
-    
-    CopyEdit
-    
-    `git clone <repo-url> cd life-expectancy-regression-with-ann`
-    
-2.  **Install dependencies:**
-    
-    bash
-    
-    CopyEdit
-    
-    `pip install -r requirements.txt`
-    
-    _(or manually install `pandas`, `numpy`, `matplotlib`, `seaborn`, `scikit-learn`, `tensorflow`)_
-    
-3.  **Run the Jupyter Notebook:**
-    
-    bash
-    
-    CopyEdit
-    
-    `jupyter notebook life-expectancy-regression-with-ann.ipynb`
-    
-
-* * *
-
 ### 📈 Results / Output
 
 *   **Evaluation Metric**: Mean Squared Error (MSE) and R² score
@@ -113,7 +80,7 @@ To run this project locally:
 ![11](https://github.com/user-attachments/assets/987b346d-37fa-453c-ad76-56d35965df96)
 ![12](https://github.com/user-attachments/assets/f4eefcc8-51af-455f-967c-a0f7884049d6)
 
-
+* * * *
 
 ### ⚠️ Limitations & Future Work
 
